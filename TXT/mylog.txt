@@ -1,18 +1,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 30  L00 General, etc.
-ZCZC W00 30  L01 SCELE/Discord related
-ZCZC W00 10  L03 GitHub and git related, including commit, push, pull
-ZCZC W00 10  L04 GitHub Pages related
-ZCZC W00 30  L05 Quiz related including studying
-ZCZC W00 60  L10 Assignment #00
-ZCZC W00 34  L30 Udacity: study, etc.
-ZCZC W00 90  L32 YouTube: watching OS related topics, etc.
-ZCZC W00 30  L41 TXT/mylog.txt related.
-ZCZC W00 120 L70 Studying for other courses.
-ZCZC W00 15  L80 Waching: Movie, YouTube, TV, Netflix, etc.
-ZCZC W00 60  L81 Listening: Radio, Music, etc.
-ZCZC W00 45  L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
-ZCZC W00 15  L87 Breakfast/Lunch/Dinner/Snake
-ZCZC W00 240 L88 Workout/Sport/Exercise/ETC.
+ZCZC W00 30   L00 General, etc.
+ZCZC W00 30   L01 SCELE/Discord related
+ZCZC W00 10   L03 GitHub and git related, including commit, push, pull
+ZCZC W00 10   L04 GitHub Pages related
+ZCZC W00 30   L05 Quiz related including studying
+ZCZC W00 60   L10 Assignment #00
+ZCZC W00 34   L30 Udacity: study, etc.
+ZCZC W00 90   L32 YouTube: watching OS related topics, etc.
+ZCZC W00 30   L41 TXT/mylog.txt related.
+ZCZC W00 120  L70 Studying for other courses.
+ZCZC W00 15   L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W00 60   L81 Listening: Radio, Music, etc.
+ZCZC W00 3000 L84 Relax, Rest, Nap, and Sleep
+ZCZC W00 45   L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W00 15   L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W00 240  L88 Workout/Sport/Exercise/ETC.
