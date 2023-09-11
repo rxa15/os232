@@ -1,6 +1,21 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC W01 30  L00 General, etc.
+ZCZC W01 180 L01 SCELE/Discord related
+ZCZC W01 60  L03 GitHub and git related, including commit, push, pull
+ZCZC W01 30  L05 Quiz Week-1 + studying for quiz
+ZCZC W01 180 L11 Assignment #01
+ZCZC W01 20  L32 YouTube: watching OS related topics, etc.
+ZCZC W01 30  L41 TXT/mylog.txt related.
+ZCZC W01 15  L61 Installed Virtual Box
+ZCZC W01 15  L62 Installed Virtual Debian Guest
+ZCZC W01 30  L70 Studying for Data Structures and Algorithm quiz on Wednesday
+ZCZC W01 60  L81 Listening to Taylor Swift's songs on Spotify
+ZCZC W01 250 L87 Breakfast + Lunch + Dinner + Snack (this week)
+ZCZC W01 120 L88 Played tennis with my friends on Saturday 
+
 ZCZC W00 30   L00 General, etc.
 ZCZC W00 30   L01 SCELE/Discord related
 ZCZC W00 10   L03 GitHub and git related, including commit, push, pull
