@@ -2,33 +2,45 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W01 30  L00 General, etc.
-ZCZC W01 180 L01 SCELE/Discord related
-ZCZC W01 60  L03 GitHub and git related, including commit, push, pull
-ZCZC W01 30  L05 Quiz Week-1 + studying for quiz
-ZCZC W01 180 L11 Assignment #01
-ZCZC W01 20  L32 YouTube: watching OS related topics, etc.
-ZCZC W01 30  L41 TXT/mylog.txt related.
-ZCZC W01 15  L61 Installed Virtual Box
-ZCZC W01 15  L62 Installed Virtual Debian Guest
-ZCZC W01 30  L70 Studying for Data Structures and Algorithm quiz on Wednesday
-ZCZC W01 60  L81 Listening to Taylor Swift's songs on Spotify
-ZCZC W01 250 L87 Breakfast + Lunch + Dinner + Snack (this week)
-ZCZC W01 120 L88 Played tennis with my friends on Saturday 
-
-ZCZC W00 30   L00 General, etc.
-ZCZC W00 30   L01 SCELE/Discord related
-ZCZC W00 10   L03 GitHub and git related, including commit, push, pull
-ZCZC W00 10   L04 GitHub Pages related
-ZCZC W00 30   L05 Quiz related including studying
-ZCZC W00 60   L10 Assignment #00
-ZCZC W00 34   L30 Udacity: study, etc.
-ZCZC W00 90   L32 YouTube: watching OS related topics, etc.
-ZCZC W00 30   L41 TXT/mylog.txt related.
-ZCZC W00 120  L70 Studying for other courses.
-ZCZC W00 15   L80 Waching: Movie, YouTube, TV, Netflix, etc.
-ZCZC W00 60   L81 Listening: Radio, Music, etc.
+ZCZC W00 30 L00 General, etc.
+ZCZC W00 30 L01 SCELE/Discord related
+ZCZC W00 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 30 L05 Quiz related including studying
+ZCZC W00 60 L10 Assignment #00
+ZCZC W00 34 L30 Udacity: study, etc.
+ZCZC W00 90 L32 YouTube: watching OS related topics, etc.
+ZCZC W00 30 L41 TXT/mylog.txt related.
+ZCZC W00 120 L70 Studying for other courses.
+ZCZC W00 15 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W00 60 L81 Listening: Radio, Music, etc.
 ZCZC W00 3000 L84 Relax, Rest, Nap, and Sleep
-ZCZC W00 45   L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
-ZCZC W00 15   L87 Breakfast/Lunch/Dinner/Snake
-ZCZC W00 240  L88 Workout/Sport/Exercise/ETC.
+ZCZC W00 45 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W00 15 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W00 240 L88 Workout/Sport/Exercise/ETC.
+ZCZC W01 30 L00 General, etc.
+ZCZC W01 180 L01 SCELE/Discord related
+ZCZC W01 60 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 30 L05 Quiz Week-1 + studying for quiz
+ZCZC W01 180 L11 Assignment #01
+ZCZC W01 20 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 30 L41 TXT/mylog.txt related.
+ZCZC W01 15 L61 Installed Virtual Box
+ZCZC W01 15 L62 Installed Virtual Debian Guest
+ZCZC W01 30 L70 Studying for Data Structures and Algorithm quiz on Wednesday
+ZCZC W01 60 L81 Listening to Taylor Swift's songs on Spotify
+ZCZC W01 250 L87 Breakfast + Lunch + Dinner + Snack (this week)
+ZCZC W01 120 L88 Played tennis with my friends on Saturday
+ZCZC W02 30 L01 SCELE/Discord related
+ZCZC W02 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W02 80 L05 Quiz related including studying (taking notes from Ch 16 & Ch 17 for Quiz W02)
+ZCZC W02 15 L08 Asked help from a friend for my SSH key
+ZCZC W02 60 L12 Assignment #02
+ZCZC W02 15 L21 Trying accessing files from different users using VirtualBox 
+ZCZC W02 7 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W02 19 L32 Watching Introduction to Linux and Basic Linux Commands for Beginners on Youtube
+ZCZC W02 30 L41 TXT/mylog.txt related.
+ZCZC W02 8 L42 TXT/mypubkey.txt related.
+ZCZC W02 70 L70 Studying for Platform Based Programming's weekly material
+ZCZC W02 47 L80 Watched 2 episodes of Detective Conan
+ZCZC W02 125 L88 Played tennis with my neighbours
