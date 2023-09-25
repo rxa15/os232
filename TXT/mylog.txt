@@ -45,10 +45,19 @@ ZCZC W02 70 L70 Studying for Platform Based Programming's weekly material
 ZCZC W02 47 L80 Watched 2 episodes of Detective Conan
 ZCZC W02 125 L88 Played tennis with my neighbours
 ZCZC W03 30 L01 SCELE/Discord related
+ZCZC W03 140 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W03 50 L05 Studying + taking notes for Ch13
 ZCZC W03 35 L05 Studying + taking notes for Ch14
 ZCZC W03 20 L05 Studying + taking notes for Ch15
-ZCZC W03 7 L25 Created a C language and a Makefile programs for POP QUIZ W03-2 TARBALL
+ZCZC W03 12 L05 Week 03 Quiz
 ZCZC W03 10 L08 OS Chat related on WhatsApp with a friend
+ZCZC W03 7 L25 Created a C language and a Makefile programs for POP QUIZ W03-2 TARBALL
+ZCZC W03 3 L32 Watched File System Concept video on Youtube
+ZCZC W03 14 L32 Watched fopen() Function in File Handling video on Youtube
+ZCZC W03 8 L32 Watched fclose() Function in File Handling video on Youtube
+ZCZC W03 12 L32 Watched Character Driver video on Youtube
+ZCZC W03 30 L32 Watched Apple File System video on Youtube
+ZCZC W03 15 L41 TXT/mylog.txt related
+ZCZC W03 25 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 5 L64 Helping a friend (OS related problem)
