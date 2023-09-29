@@ -61,3 +61,5 @@ ZCZC W03 30 L32 Watched Apple File System video on Youtube
 ZCZC W03 15 L41 TXT/mylog.txt related
 ZCZC W03 25 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 5 L64 Helping a friend (OS related problem)
+ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 15 L05 Studying + taking notes for Ch9
