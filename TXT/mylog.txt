@@ -61,5 +61,8 @@ ZCZC W03 30 L32 Watched Apple File System video on Youtube
 ZCZC W03 15 L41 TXT/mylog.txt related
 ZCZC W03 25 L43 TXT/myrank.tex related, including peer review.
 ZCZC W03 5 L64 Helping a friend (OS related problem)
-ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 300 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W04 15 L05 Studying + taking notes for Ch9
+ZCZC W04 3 L25 Created a C language and a Makefile programs for POP QUIZ W04-2 TARBALL
+ZCZC W04 40 L32 Watched Linux Memory Management video on Youtube
