@@ -15,5 +15,7 @@ The man behind Linux! An interesting interview that will motivate you studying f
 * [Linux Device Driver Lecture 15: Character driver](https://youtu.be/R5qSTZA0PuY?si=lZT6f-kWmK4uUgfl) --- Pak Ari mentioned character driver on the class last week but I had no idea what that meant. This is the video that I found that helped me understand better about it.
 * [fopen() function in file handling | Opening, reading, appending, writing a file](https://youtu.be/2hGwxTffyKg?si=GO5s4Occ322JXkqH) --- An explanation about fopen() function which is used to open a file in C programming language. It also allows our operating system to reduce the problem of multiple programs accessing the same file because fopen() tracks where in the file that a process is occuring.
 * [fclose() in file handling | C Programming](https://youtu.be/ff1stAEVUN8?si=0BXrNIAZpglO0e-b) --- An explanation about fclose() function which is used to close an opened file in C programming language. If we don't close the file properly, it will lead to the loss of data.
+* [Intro to Linux Memory Management](https://youtu.be/2RYT_ZfrYFk?si=iQxShGu_eJnRAW2h) --- An overview video introducing you to how Linux manages its memory
+* [Logical vs Physical Address Space](https://youtu.be/CmTMr_x3NwY?si=--bXeJxl9d4wbifa) --- An explanation of how logical and physical address space work with visualization by drawings on whiteboard
 <br>
 <hr>
