@@ -17,5 +17,8 @@ The man behind Linux! An interesting interview that will motivate you studying f
 * [fclose() in file handling | C Programming](https://youtu.be/ff1stAEVUN8?si=0BXrNIAZpglO0e-b) --- An explanation about fclose() function which is used to close an opened file in C programming language. If we don't close the file properly, it will lead to the loss of data.
 * [Intro to Linux Memory Management](https://youtu.be/2RYT_ZfrYFk?si=iQxShGu_eJnRAW2h) --- An overview video introducing you to how Linux manages its memory
 * [Logical vs Physical Address Space](https://youtu.be/CmTMr_x3NwY?si=--bXeJxl9d4wbifa) --- An explanation of how logical and physical address space work with visualization by drawings on whiteboard
+* [Demand Paging and Page Faults](https://youtu.be/58TYdisGrX0?si=y-bhK9JMJbn-Jg1z) --- This video contains explanations with pictures and examples on how systems use demand paging for virtual memory management
+* [Cache Replacement Policies](https://youtu.be/_Hh-NcdbHCY?si=xXLhkw2wd7n0Bphn) --- A simple video explaining various cache replacement policies. It is useful for knowing what kinds of policies exist for cache replacement
+* [File Allocation Methods](https://youtu.be/gK6L3v1b8AM?si=O37vjhtqjGtadCjk) --- Clear explanation on how OS helps hard disk to allocate the files!
 <br>
 <hr>

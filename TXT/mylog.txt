@@ -66,3 +66,12 @@ ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W04 15 L05 Studying + taking notes for Ch9
 ZCZC W04 3 L25 Created a C language and a Makefile programs for POP QUIZ W04-2 TARBALL
 ZCZC W04 40 L32 Watched Linux Memory Management video on Youtube
+ZCZC W05 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 140 L15 Assignment #05
+ZCZC W05 5 L25 C-language including Make
+ZCZC W05 15 L41 TXT/mylog.txt related
+ZCZC W05 20 L43 TXT/myrank.tex related, including peer review
+ZCZC W05 75 L63 Spent more than an hour to make some space for Debian because my storage is running out of space 
+ZCZC W05 300 L70 Studying for other courses
+ZCZC W05 60 L81 Listening: Radio, Music, etc
+ZCZC W05 100 L88 Played tennis with my neighbors
