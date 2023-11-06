@@ -75,3 +75,15 @@ ZCZC W05 75 L63 Spent more than an hour to make some space for Debian because my
 ZCZC W05 300 L70 Studying for other courses
 ZCZC W05 60 L81 Listening: Radio, Music, etc
 ZCZC W05 100 L88 Played tennis with my neighbors
+ZCZC W06 30 L01 SCELE/Discord related
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 7 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 45 L05 Quiz related including studying
+ZCZC W06 15 L08 OS Chat related on LINE with a friend
+ZCZC W06 5 L25 C-language including Make
+ZCZC W06 5 L26 GnuPG, key-gen, encrypt/decrypt
+ZCZC W06 7 L41 TXT/mylog.txt related
+ZCZC W06 12 L61 Backup Virtual Box
+ZCZC W06 240 L70 Studying for other courses
+ZCZC W06 30 L80 Waching: Movie, YouTube, TV, Netflix
+ZCZC W06 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc
