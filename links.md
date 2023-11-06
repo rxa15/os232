@@ -20,5 +20,7 @@ The man behind Linux! An interesting interview that will motivate you studying f
 * [Demand Paging and Page Faults](https://youtu.be/58TYdisGrX0?si=y-bhK9JMJbn-Jg1z) --- This video contains explanations with pictures and examples on how systems use demand paging for virtual memory management
 * [Cache Replacement Policies](https://youtu.be/_Hh-NcdbHCY?si=xXLhkw2wd7n0Bphn) --- A simple video explaining various cache replacement policies. It is useful for knowing what kinds of policies exist for cache replacement
 * [File Allocation Methods](https://youtu.be/gK6L3v1b8AM?si=O37vjhtqjGtadCjk) --- Clear explanation on how OS helps hard disk to allocate the files!
+* [Threads and Concurrency in OS](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8) --- A Medium thread that explains about threads and the related mechanisms, processes, and multi-threads operation in OS.
+* [Concurrency vs Parallelism in OS](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350#:~:text=Concurrency%20is%20about%20dealing%20with,at%20the%20same%20time%20instant.) --- This Medium article gives a brief explanation about the differences between concurrency and parallelism. It might took a while to read and understand the concept :). 
 <br>
 <hr>
