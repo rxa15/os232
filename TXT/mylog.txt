@@ -87,3 +87,12 @@ ZCZC W06 12 L61 Backup Virtual Box
 ZCZC W06 240 L70 Studying for other courses
 ZCZC W06 30 L80 Waching: Movie, YouTube, TV, Netflix
 ZCZC W06 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc
+ZCZC W07 30 L01 SCELE/Discord related
+ZCZC W07 200 L02 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 3 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 50 L05 Quiz related including studying
+ZCZC W07 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 100 L17 Assignment #07
+ZCZC W07 5 L25 C-language including Make.
+ZCZC W07 120 L62 Restore Virtual Debian Guest
+ZCZC W07 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
