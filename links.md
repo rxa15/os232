@@ -32,5 +32,8 @@ The man behind Linux! An interesting interview that will motivate you studying f
 * [Introduction to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- This explanation by GeeksforGeeks will assist you in understanding the concept of process synchronization with Peterson's Solution & Semaphores. It helped me understood what were taught in class on Tuesday!
 * [Bounded Buffer Problem in Operating System](https://youtu.be/Qx3P2wazwI0?si=yh6ngNCyy4fp1ovl) --- Bounded buffer is a classic problem in synchronization. This youtube video helped me understanding the principle while reading ch7 presentation when preparing for quiz.
 * [Deadlock](https://www.theknowledgeacademy.com/blog/deadlock-in-os/) --- An explanation of Deadlocks that contains methods of handling them + the difference between Deadlock and Starvation in Operating System.
+## Week 08
+* [The Linux From Scratch Book Version 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/) --- The main character of this week's assignment.
+* [LFS 12.0 Playlist by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- A YouTube playlist made by Kernotex that explains how to do this week's assignment step-by-step.
 <br>
 <hr>

@@ -96,3 +96,8 @@ ZCZC W07 100 L17 Assignment #07
 ZCZC W07 5 L25 C-language including Make.
 ZCZC W07 120 L62 Restore Virtual Debian Guest
 ZCZC W07 30 L86 House chore, including helping mom, pap, uncle, aunty, jaga warung, jualan kue, etc.
+ZCZC W08 15 L01 SCELE/Discord related
+ZCZC W08 5 GitHub and git related, including commit, push, pull
+ZCZC W08 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
+ZCZC W08 300 L18 Assignment #08
+ZCZC W08 10 L64 Helping a friend (OS related problem)
