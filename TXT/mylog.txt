@@ -101,3 +101,24 @@ ZCZC W08 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W08 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend
 ZCZC W08 300 L18 Assignment #08
 ZCZC W08 10 L64 Helping a friend (OS related problem)
+ZCZC W09 30 L00 General, etc.
+ZCZC W09 35 L01 SCELE/Discord related
+ZCZC W09 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 20 L03 GitHub related
+ZCZC W09 10 L04 GitHub Pages related
+ZCZC W09 7 L05 QUIZ
+ZCZC W09 120 L19 W09 Assignment
+ZCZC W09 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 100 L32 YouTube: watching OS related topics, etc.
+ZCZC W10 30 L00 General, etc.
+ZCZC W10 35 L01 SCELE/Discord related
+ZCZC W10 75 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 15 L03 GitHub related
+ZCZC W10 7 L05 QUIZ
+ZCZC W10 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 15 L08 Texted a friend about this week's assignment
+ZCZC W10 600 L20 W10 Assignment
+ZCZC W10 300 L32 Watched Kernotex's videos regarding this week's assignment
+ZCZC W10 5 L41 TXT/mylog.txt related
+ZCZC W10 18 L62 Backed up my virtual debian guest twice
+ZCZC W10 5 L64 Helped a friend for this week's assignment

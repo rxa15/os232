@@ -35,5 +35,17 @@ The man behind Linux! An interesting interview that will motivate you studying f
 ## Week 08
 * [The Linux From Scratch Book Version 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/) --- The main character of this week's assignment.
 * [LFS 12.0 Playlist by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- A YouTube playlist made by Kernotex that explains how to do this week's assignment step-by-step.
+## Week 09
+* [LFS 12.0 Chapter 6](https://www.youtube.com/watch?v=D_N1kQPsQEk&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8) --- A YouTube video made by Kernotex that explains how to do chapter 6 in LFS 12.0 book.
+* [LFS 12.0 Chapter 7](https://www.youtube.com/watch?v=y8uAMEK0FVc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=9) --- A YouTube video made by Kernotex that explains how to do chapter 7 in LFS 12.0 book.
+## Week 10
+* [Installing Basic System Software](https://www.youtube.com/watch?v=WXAV29qd6VI&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=10) --- A YouTube video made by Kernotex that explains how to do chapter 8: 8.1-8.5 in LFS 12.0 book.
+* [Installing Basic System Software Part 2](https://www.youtube.com/watch?v=KWy-R4nX-6U&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=11) --- A YouTube video made by Kernotex that explains how to do chapter 8: 8.6-8.26 in LFS 12.0 book.
+* [Installing Basic System Software Part 3](https://www.youtube.com/watch?v=xiolHZb2kZo&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=12) --- A YouTube video made by Kernotex that explains how to do chapter 8: 8.27 in LFS 12.0 book. In my opinion, this part is the most difficult and it took me quite a long time to do it. 
+* [Installing Basic System Software Part 4](https://www.youtube.com/watch?v=Nq_m5_a7KdI&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=13) --- A YouTube video made by Kernotex that explains how to do chapt
+er 8: 8.28-8.46 in LFS 12.0 book.
+* [Installing Basic System Software Part 5](https://www.youtube.com/watch?v=X2d6w2Fj7Og&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=14) --- A YouTube video made by Kernotex that explains how to do chapt
+er 8: 8.47-8.80 in LFS 12.0 book.
+* [Installing Basic System Software Part 6 (the final boss)](https://www.youtube.com/watch?v=nqpSImVXt3A&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=15) --- The last part of the YouTube video series made by Kernotex that explains how to do chapter 8: 8.81-8.83.
 <br>
 <hr>
